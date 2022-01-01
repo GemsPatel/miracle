@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-04-30 02:44:50 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 03:58:23 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 03:58:31 --> 404 Page Not Found: Css/bootstrap.min.css.map
+ERROR - 2019-04-30 03:58:31 --> 404 Page Not Found: Js/bootstrap.bundle.min.js.map
+ERROR - 2019-04-30 03:59:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-30 04:01:37 --> 404 Page Not Found: Css/bootstrap.min.css.map
+ERROR - 2019-04-30 04:01:37 --> 404 Page Not Found: Js/bootstrap.bundle.min.js.map
+ERROR - 2019-04-30 04:02:43 --> 404 Page Not Found: Css/bootstrap.min.css.map
+ERROR - 2019-04-30 04:02:45 --> 404 Page Not Found: Js/bootstrap.bundle.min.js.map
+ERROR - 2019-04-30 04:03:22 --> 404 Page Not Found: Css/bootstrap.min.css.map
+ERROR - 2019-04-30 04:03:22 --> 404 Page Not Found: Js/bootstrap.bundle.min.js.map
+ERROR - 2019-04-30 04:09:00 --> 404 Page Not Found: Css/bootstrap.min.css.map
+ERROR - 2019-04-30 04:09:00 --> 404 Page Not Found: Js/bootstrap.bundle.min.js.map
+ERROR - 2019-04-30 04:50:26 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 04:54:15 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 05:38:05 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 05:39:57 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 05:40:55 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 05:41:15 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 05:45:38 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 05:47:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2019-04-30 05:48:56 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 10:12:07 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 11:36:19 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 12:51:56 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 12:54:24 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 13:45:08 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 15:01:18 --> 404 Page Not Found: Adstxt/index
+ERROR - 2019-04-30 15:54:05 --> 404 Page Not Found: Images/favicon.png
+ERROR - 2019-04-30 17:42:51 --> 404 Page Not Found: Images/favicon.png

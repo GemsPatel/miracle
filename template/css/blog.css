@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family:koho !important;
+	}
+	
+/* -- Navbar -- */
+	
+#blog #navbar .navbar{
+	background:#f4a081 !important;
+	text-transform:uppercase;
+	padding-top:0;
+	padding-bottom:0;
+	}
+#blog #navbar .navbar .navbar-menu{
+	color:#fff;
+	margin:0 10px 0 0;
+	}
+#blog #navbar .navbar .navbar-brand{
+	color:#fff !important;
+	font-size:24px;
+	}
+#blog #navbar .navbar-dark .navbar-toggler-icon{
+	display:none;
+	}
+#blog #navbar .navbar .navbar-brand .navbar-brand-m{
+	color:#f4a081;
+	background:#fff;
+	border-radius:50%;
+	padding:0 5px;
+	}
+#blog #navbar .navbar .navbar-nav .nav-link{
+	color:#fff;
+	}
+	
+/* -- Boxes -- */
+#blog #boxes .boxes{
+	margin:15px 0;
+	cursor:pointer;
+	}
+#blog #boxes .boxes img{
+	border-radius:10px;
+	}
+	
+/* -- Responsive code -- */
+@media screen and (max-width: 1199px) {
+	
+}
+
+@media screen and (max-width: 992px) {
+	
+}
+
+@media screen and (max-width: 991px) {
+}
+
+@media screen and (max-width: 830px) {
+	
+}
+
+@media screen and (max-width: 767px) {
+	#blog #navbar .navbar .navbar-toggler{
+		border:none;
+		padding:0;
+		font-size:16px;
+		color:#fff;
+		}
+	#blog #navbar .navbar .navbar-brand {
+		font-size: 20px;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	
+}
+
+@media screen and (max-width: 575px) {
+	
+}
+
+@media screen and (max-width: 544px) {
+	
+}
+
+@media screen and (max-width: 543px) {
+	
+}
+
+@media screen and (max-width: 320px) {
+	
+}
